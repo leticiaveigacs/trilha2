@@ -19,3 +19,20 @@ p, ul, li {
     font-size: 1rem;
 
 }
+
+/* Cores personalizadas */
+.text-danger-custom {
+    color: #e53939; /* Vermelho */
+}
+
+.bg-dark-custom {
+    background-color: #000000; /* Preto */
+}
+
+.bg-red-custom {
+    background-color: #e53939; /* Vermelho */
+}
+
+.text-white-custom {
+    color: #ffffff; /* Branco */
+}
