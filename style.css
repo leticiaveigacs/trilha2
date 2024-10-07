@@ -36,3 +36,7 @@ p, ul, li {
 .text-white-custom {
     color: #ffffff; /* Branco */
 }
+
+.text-justify {
+    text-align: justify;
+}
